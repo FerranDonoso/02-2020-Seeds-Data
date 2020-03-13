@@ -1,2 +1,2 @@
 # Seeds-Data
-A classification analysis of the seeds dataset
+A classification analysis to predict seed class
